@@ -216,25 +216,6 @@ git push -u origin main
 | Slow first load | Normal — pip installs on first deploy |
 | Upload size limit | Max 50 MB per file (configured in `config.toml`) |
 
-
-## 📝 Internship Project Resume Bullets
-
-### Project Description
-> Built an AI-powered Resume Screening System using Python, Streamlit, and scikit-learn that analyzes candidate resumes against job descriptions using TF-IDF semantic similarity, extracts skills with regex-based NLP, computes composite ATS scores, and ranks candidates with interactive Plotly dashboards.
-
-### Resume Bullets
-- Engineered an ATS-style Resume Screening platform using **Python** and **Streamlit** with **TF-IDF semantic matching** (scikit-learn), processing multiple PDF/DOCX resumes against job descriptions
-- Developed a composite scoring engine combining **semantic similarity (40%)**, skill match analysis (30%), experience keywords (20%), and education indicators (10%) to produce a 0–100 ATS compatibility score
-- Built a **140+ skill extraction system** with regex word-boundary matching and alias resolution across 12 categories, achieving accurate skill identification without false positives
-- Created interactive **Plotly dashboards** with gauge charts, radar comparisons, and ranking visualizations, plus downloadable PDF reports using fpdf2
-- Deployed on **Streamlit Community Cloud** with lightweight dependencies (no PyTorch) to stay well within 1 GB RAM constraints
-
-### LinkedIn Description
-> 🚀 AI Resume Screening System — An ATS-style candidate ranking platform built with Python, Streamlit, and scikit-learn. Features TF-IDF semantic matching, 140+ skill extraction, composite ATS scoring, interactive Plotly dashboards, and PDF report generation. Deployed on Streamlit Cloud.
->
-> Built as part of the **YBI Foundation ML & DS Internship** 🎓
-
-
 ## 🙏 Acknowledgments
 
 - [YBI Foundation](https://www.ybifoundation.org/) for the ML & DS Internship opportunity
