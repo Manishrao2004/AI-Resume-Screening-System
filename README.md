@@ -216,25 +216,6 @@ git push -u origin main
 | Slow first load | Normal — pip installs on first deploy |
 | Upload size limit | Max 50 MB per file (configured in `config.toml`) |
 
----
-
-## 🧪 Testing Guide
-
-### Manual Testing Checklist
-
-- [ ] Upload a single PDF resume → verify text extraction
-- [ ] Upload a DOCX resume → verify text extraction
-- [ ] Upload multiple resumes simultaneously
-- [ ] Paste a detailed job description
-- [ ] Click **"Analyze Resumes"** → verify progress bar and results
-- [ ] **Dashboard** tab → rankings bar chart, top candidate gauge
-- [ ] **Candidate Details** tab → skill tags, score breakdown
-- [ ] **Comparison** tab → radar chart, comparison table
-- [ ] **Reports** tab → download PDF report
-- [ ] Test error handling: upload empty file, very short JD
-- [ ] Test with corrupted PDF → should show graceful error
-
----
 
 ## 📝 Internship Project Resume Bullets
 
@@ -253,13 +234,6 @@ git push -u origin main
 >
 > Built as part of the **YBI Foundation ML & DS Internship** 🎓
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
