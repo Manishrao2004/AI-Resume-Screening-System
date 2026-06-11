@@ -10,9 +10,7 @@ An ATS-style **Resume Screening and Candidate Ranking** platform built with Pyth
 
 <div align="center">
 
-[![🚀 Open Live App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP-URL.streamlit.app)
-
-> ⚡ **Replace the URL above** with your Streamlit Cloud link after deployment.
+[![🚀 Open Live App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-resume-screening-system-app.streamlit.app/)
 
 </div>
 
@@ -278,6 +276,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Made with ❤️ for the **YBI Foundation ML & DS Internship**
 
-[![🚀 Open Live App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP-URL.streamlit.app)
+[![🚀 Open Live App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-resume-screening-system-app.streamlit.app/)
 
 </div>
